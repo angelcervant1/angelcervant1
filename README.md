@@ -37,11 +37,11 @@
 ---
 
 ### 🏆 Top Repositories
-
+## Qualcomm RB5 Drone Development
 <!-- Replace the links and repository names with your actual top repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Visual-SLAM-UAV)](https://github.com/angelcervant1/rb5_vision)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Robotics-Projects)](https://github.com/angelcervant1/rb5-jetson_docker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Computer-Vision-Robotics)](https://github.com/angelcervant1/rb5-flight-summer-dev_ws)
+[![Computer Vision System](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=rb5_vision)](https://github.com/angelcervant1/rb5_vision)
+[![Motion Development](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=rb5-flight-summer-dev_ws)](https://github.com/angelcervant1/rb5-flight-summer-dev_ws)
+[![System Integration](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=rb5-jetson_docker)](https://github.com/angelcervant1/rb5-jetson_docker)
 
 ---
 
