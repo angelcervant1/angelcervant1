@@ -39,9 +39,9 @@
 ### 🏆 Top Repositories
 
 <!-- Replace the links and repository names with your actual top repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Visual-SLAM-UAV)](https://github.com/angelcervant1/Visual-SLAM-UAV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Robotics-Projects)](https://github.com/angelcervant1/Robotics-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Computer-Vision-Robotics)](https://github.com/angelcervant1/Computer-Vision-Robotics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Visual-SLAM-UAV)](https://github.com/angelcervant1/rb5_vision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Robotics-Projects)](https://github.com/angelcervant1/rb5-jetson_docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Computer-Vision-Robotics)](https://github.com/angelcervant1/rb5-flight-summer-dev_ws)
 
 ---
 
@@ -49,6 +49,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelcervant1/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/angelcervant1)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:angelcervant@hotmail.com)
 
 ---
