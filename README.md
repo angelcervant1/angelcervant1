@@ -9,10 +9,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- Robotics: ROS (Melodic, Noetic), PX4 Autopilot
-- Programming Languages: C++, Python
-- Tools: Docker, Git, OpenCV, SLAM (ORB-SLAM3, Hector-SLAM)
-- Platforms: NVIDIA Jetson, RB5 Drone, TurtleBot
+- **Robotics:** ROS (Melodic, Noetic), PX4 Autopilot
+- **Programming Languages:** C++, Python
+- **Tools:** Docker, Git, OpenCV, SLAM (ORB-SLAM3, Hector-SLAM)
+- **Platforms:** NVIDIA Jetson, RB5 Drone, TurtleBot
 
 ---
 
@@ -20,7 +20,28 @@
 
 ![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelcervant1&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcervant1&layout=compact&theme=radical)](https://github.com/angelcervant1/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcervant1&layout=compact&theme=radical)
+
+---
+
+### 📈 Additional GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelcervant1&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=angelcervant1&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcervant1&langs_count=10&theme=radical&layout=compact)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=angelcervant1&theme=react-dark&hide_border=true)
+
+---
+
+### 🏆 Top Repositories
+
+<!-- Replace the links and repository names with your actual top repositories -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Visual-SLAM-UAV)](https://github.com/angelcervant1/Visual-SLAM-UAV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Robotics-Projects)](https://github.com/angelcervant1/Robotics-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelcervant1&repo=Computer-Vision-Robotics)](https://github.com/angelcervant1/Computer-Vision-Robotics)
 
 ---
 
@@ -28,3 +49,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelcervant1/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/angelcervant1)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
