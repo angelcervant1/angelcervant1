@@ -22,10 +22,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcervant1&layout=compact&theme=radical)
 
----
-
-### 📈 Additional GitHub Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelcervant1&theme=radical)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=angelcervant1&theme=radical)
