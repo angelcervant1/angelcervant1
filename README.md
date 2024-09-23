@@ -9,10 +9,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Robotics:** ROS (Melodic, Noetic), PX4 Autopilot
+- **Robotics:** ROS (Melodic, Noetic), PX4 Autopilot, Ground Control Station
 - **Programming Languages:** C++, Python
-- **Tools:** Docker, Git, OpenCV, SLAM (ORB-SLAM3, Hector-SLAM)
-- **Platforms:** NVIDIA Jetson, RB5 Drone, TurtleBot
+- **Tools:** Docker, Git, OpenCV, Torch, YOLO
+- **Platforms:** NVIDIA Jetson, RB5 Drone, TurtleBot, Arduino, Raspberry Pi, OptiTrack Mocap
 
 ---
 
