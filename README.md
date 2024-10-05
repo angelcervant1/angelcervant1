@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Visual SLAM for Autonomous Navigation with UAVs in collaboration with uOttawa.
 - 🌱 I’m currently learning Computer Vision for Robotics.
 - 👯 I’m looking to collaborate on Robotics projects.
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelcervant/).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelcervant/). 
 
 ---
 
