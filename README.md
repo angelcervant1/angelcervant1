@@ -1,18 +1,17 @@
 ## Hi there 👋 I am Angel Antonio Cervantes
-### An Undergraduate Mechatronics Engineer at Tec de Monterrey with an interest in Robotics 
+### An Undergraduate Mechatronics Engineer at Tec de Monterrey with an interest in Robotics & Automotive Systems
 
-- 🔭 I’m currently working on Visual SLAM for Autonomous Navigation with UAVs in collaboration with uOttawa.
-- 🌱 I’m currently learning Computer Vision for Robotics.
-- 👯 I’m looking to collaborate on Robotics projects.
+- 🌱 I’m currently learning C# and Rust.
+- 👯 I’m looking to collaborate on open source projects
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelcervant/). 
 
 ---
 
 ### 🛠️ Tech Stack
 - **Robotics:** ROS (Melodic, Noetic), PX4 Autopilot, Ground Control Station
-- **Programming Languages:** C/C++, Python
+- **Programming Languages:** C/C++, Python, Bash, TCL, CAPL, Java, Rust, C#.
 - **Tools:** Docker, Git, OpenCV, Torch, YOLO
-- **Platforms:** NVIDIA Jetson, RB5 Drone, TurtleBot, Arduino, Raspberry Pi, OptiTrack Mocap
+- **Platforms:** NVIDIA Jetson, RB5 Drone, TurtleBot, Arduino, Raspberry Pi, OptiTrack Mocap, NXP, STM32
 
 ---
 
