@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Angel Antonio Cervantes
-### An Undergraduate Mechatronics Engineer at Tec de Monterrey with an interest in Robotics & Automotive Systems
+### A Mechatronics Engineer graduated from Tec de Monterrey with an interest in Robotics & Automotive Systems
 
 - 🌱 I’m currently learning C# and Rust.
 - 👯 I’m looking to collaborate on open source projects
